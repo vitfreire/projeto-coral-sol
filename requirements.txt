@@ -1,0 +1,16 @@
+requests
+pandas
+geopandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+matplotlib
+seaborn
+folium
+branca
+xarray
+netCDF4
+streamlit
+pydeck
+shapely
