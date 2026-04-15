@@ -44,3 +44,4 @@ O painel foi desenhado para tomadores de decisão (C-Level/Gestores Ambientais) 
 - **ANP:** Malha de coordenadas de infraestrutura de exploração de petróleo.
 
 ---
+Projeto concebido e desenvolvido por Vitória Freire no âmbito da Pós-Graduação em IA e Ciência de Dados (2026).
